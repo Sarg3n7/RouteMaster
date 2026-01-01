@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
+import Home from "./components/Home/Home";
 
 const App = () => {
   return (
-    <h1 className='bg-green-700 p-4'>React Router</h1>
-  )
-}
+    <>
+    </>
+  );
+};
 
-export default App
+export default App;
